@@ -6,7 +6,7 @@ Features
 - Generate secure passwords
 - Choose password length
 - Optionally include:
-     Digits
+     Digits,
      Symbols
 - Clean and easy-to-read code
 - Beginner-friendly project structure
